@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nir Shvarchberg</h1>
 <h3 align="center">A Full Stack/frontend web developer from Israel</h3>
 
-- 🔭 I’m currently working on [sTrello](https://strello-app.onrender.com/)
+- 🔭 I’m currently working on [sTrello- trello mockup frondend+ backend- React, Node.js, MongoDB, Redux, Sock.io](https://strello-app.onrender.com/)
 
-- 📜 Gmail+kepp mockup [https://nirshv.github.io/appSus/](https://nirshv.github.io/appSus/)
+- 🎭 memeGen- vanilla javascript working with canvas [https://nirshv.github.io/memeGen/](https://nirshv.github.io/memeGen/)
 
-- 🎭 memeGen [https://nirshv.github.io/memeGen/](https://nirshv.github.io/memeGen/)
+- 🚨 MineSweeper- vanilla javascript [https://nirshv.github.io/MineSweeper/](https://nirshv.github.io/MineSweeper/)
+
+- 🚀 Some of my projects **:**
+
+- 📜 Gmail+kepp mockup- React **https://nirshv.github.io/appSus/**
+
+- 👻 Pacman- vanilla javascript [https://nirshv.github.io/Pacman/](https://nirshv.github.io/Pacman/)
 
 - 📫 How to reach me **nir1shv@gmail.com | 055-6895816**
-
-- 👻 Pacman [https://nirshv.github.io/Pacman/](https://nirshv.github.io/Pacman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
