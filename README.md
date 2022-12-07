@@ -2,12 +2,11 @@
 <h3 align="center">A Full Stack/frontend web developer from Israel</h3>
 
 - 🔭 I’m currently working on [sTrello- trello mockup frondend+ backend- React, Node.js, MongoDB, Redux, Sock.io](https://strello-app.onrender.com/)
-
+- 
+- 🚀 Some of my projects **:**
 - 🎭 memeGen- vanilla javascript working with canvas [https://nirshv.github.io/memeGen/](https://nirshv.github.io/memeGen/)
 
 - 🚨 MineSweeper- vanilla javascript [https://nirshv.github.io/MineSweeper/](https://nirshv.github.io/MineSweeper/)
-
-- 🚀 Some of my projects **:**
 
 - 📜 Gmail+kepp mockup- React **https://nirshv.github.io/appSus/**
 
