@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on [sTrello- trello mockup frondend+ backend- React, Node.js, MongoDB, Redux, Sock.io](https://strello-app.onrender.com/)
 - 🚀 Some of my projects **:**
-- 🎭 memeGen- vanilla javascript working with canvas [https://nirshv.github.io/memeGen/](https://nirshv.github.io/memeGen/)
-
-- 🚨 MineSweeper- vanilla javascript [https://nirshv.github.io/MineSweeper/](https://nirshv.github.io/MineSweeper/)
+- 🖼 Moments- React, Redux, Node.js, Express, Material UI, mongoose [https://moments-wurj.onrender.com/](https://moments-wurj.onrender.com/)
 
 - 📜 Gmail+kepp mockup- React **https://nirshv.github.io/appSus/**
+
+- 🎭 MemeGen- vanilla javascript working with canvas [https://nirshv.github.io/memeGen/](https://nirshv.github.io/memeGen/)
+
+- 🚨 MineSweeper- vanilla javascript [https://nirshv.github.io/MineSweeper/](https://nirshv.github.io/MineSweeper/)
 
 - 👻 Pacman- vanilla javascript [https://nirshv.github.io/Pacman/](https://nirshv.github.io/Pacman/)
 
