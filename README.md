@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nir Shvarchberg</h1>
 <h3 align="center">A Full Stack/frontend web developer from Israel</h3>
 
-- 🔭 I’m currently working on [sTrello- trello mockup] frondend+ backend- React, Node.js, Express, MongoDB, Redux, Sock.io (https://strello-app.onrender.com/)
+- 🔭 I’m currently working on [sTrello- trello mockup](https://strello-app.onrender.com/) frondend+ backend- React, Node.js, Express, MongoDB, Redux, Sock.io
 - 🚀 Some of my projects **:**
 - 🖼 Moments- React, Redux, Node.js, Express, Material UI, mongoose [https://moments-wurj.onrender.com/](https://moments-wurj.onrender.com/)
 
